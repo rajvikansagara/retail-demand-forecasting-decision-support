@@ -1,0 +1,11 @@
+Rank,Feature,Importance mean,Importance std.,Interpretation
+1,Open,1.441424,0.201482,Store opening status
+2,Promo,0.091203,0.015705,Promotional activity
+3,SalesLag1,0.029474,0.00927,Previous-day sales
+4,Day,0.015358,0.006533,Day within month
+5,DayOfWeek,0.010621,0.004495,Weekly pattern
+6,SalesLag14,0.003777,0.002087,Two-week lagged sales
+7,RollingMean7,0.000617,0.001647,Recent weekly average
+8,RollingStd14,0.000237,0.000455,Two-week volatility
+9,RollingStd7,0.000218,0.0015,Recent weekly volatility
+10,RollingMean28,0.000189,0.000474,Monthly rolling average

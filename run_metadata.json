@@ -1,0 +1,13 @@
+{
+  "selected_store": 1,
+  "raw_store_rows": 942,
+  "rows_after_feature_engineering": 914,
+  "training_rows": 872,
+  "testing_rows": 42,
+  "training_start": "2013-01-29",
+  "training_end": "2015-06-19",
+  "testing_start": "2015-06-20",
+  "testing_end": "2015-07-31",
+  "xgboost_features": 40,
+  "mape_zero_sales_rule": "Zero-sales days excluded from MAPE denominator."
+}
