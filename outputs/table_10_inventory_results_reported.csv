@@ -1,0 +1,5 @@
+Model,Safety stock,Average reorder point,Stockout days,Stockout units,Average excess inventory
+SARIMA,3094.26,29109.37,0,0.0,1663.09
+XGBoost,1385.06,28904.98,0,0.0,1462.47
+LSTM,1966.66,27780.0,0,0.0,1473.6
+Seasonal Naive,5064.07,30977.41,1,2656.93,2678.37

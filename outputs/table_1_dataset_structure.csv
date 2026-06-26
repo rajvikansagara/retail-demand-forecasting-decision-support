@@ -1,0 +1,4 @@
+File,Rows,Columns,Main purpose,Date coverage
+train.csv,1017209,9,Historical sales for model development,2013-01-01 to 2015-07-31
+test.csv,41088,8,Future records without actual sales,2015-08-01 to 2015-09-17
+store.csv,1115,10,Store-level characteristics,Store-level data only

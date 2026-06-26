@@ -1,0 +1,9 @@
+Item,Value
+Selected store,Store 1
+Raw selected-store records,942 days
+Selected-store date range,2013-01-01 to 2015-07-31
+Rows after feature engineering,914
+Training period,2013-01-29 to 2015-06-19
+Training rows,872
+Testing period,2015-06-20 to 2015-07-31
+Testing rows,42
